@@ -16,9 +16,9 @@ University : **Dalian Maritime University**.
 
 Location : **Beijing, Chaoyang, China**.
 
-Career : 
-2021.09 ~ Now  **meituan.com**
-2020.07 ~ 2021.09 **baidu.com**
+Career : \
+2021.09 ~ now  **meituan.com** \
+2020.07 ~ 2021.09  **baidu.com**
 
 
 
