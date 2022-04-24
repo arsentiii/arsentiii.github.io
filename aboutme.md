@@ -14,8 +14,11 @@ Major : **Management Science and Engineering**
 
 University : **Dalian Maritime University**.
 
-Location : **Beijing, Haidian, Chian**.
+Location : **Beijing, Chaoyang, China**.
 
-Work : **Employeed By Baidu As A Rookie Developer**
+Career : 
+2021.09 ~ Now  **meituan.com**
+2020.07 ~ 2021.09 **baidu.com**
+
 
 
