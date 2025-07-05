@@ -10,9 +10,9 @@ My name is **Wang Yu-han**, a Master of Management Science and Engineering(Gradu
 
 Research interests : **Machine Learning Application** and **NLP** tasks like NER and Setiment Analysis \
 Major : **Management Science and Engineering**\
-University : **Dalian Maritime University**\
+University : **Dalian Maritime University**
 
 #### Careers
-
-2021.09 ~ now   **meituan.com** \
-2020.07 ~ 2021.09   **baidu.com**
+2023.12 ~ now   **bytedance** \
+2021.09 ~ 2023.12   **meituan** \
+2020.07 ~ 2021.09   **baidu**
